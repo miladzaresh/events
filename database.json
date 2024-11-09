@@ -1,0 +1,143 @@
+{
+  "user": [
+    {
+      "firstName": "milad",
+      "lastName": "zare",
+      "username": "mz",
+      "password": "mz",
+      "gender": 1,
+      "id": 1
+    },
+    {
+      "firstName": "te",
+      "lastName": "te",
+      "username": "te",
+      "password": "te",
+      "gender": 0,
+      "id": 2
+    }
+  ],
+  "events": [
+    {
+      "title": "tt",
+      "description": "tt",
+      "price": 12,
+      "capacity": 1,
+      "image": null,
+      "dateTime": "2024-11-27",
+      "user_id": 1,
+      "rowCount": 3,
+      "columnCount": 3,
+      "purchases": [
+        {
+          "userId": -1,
+          "isPurchase": false
+        },
+        {
+          "userId": 2,
+          "isPurchase": false
+        },
+        {
+          "userId": 2,
+          "isPurchase": true
+        },
+        {
+          "userId": -1,
+          "isPurchase": false
+        },
+        {
+          "userId": -1,
+          "isPurchase": false
+        },
+        {
+          "userId": 1,
+          "isPurchase": true
+        },
+        {
+          "userId": 1,
+          "isPurchase": true
+        },
+        {
+          "userId": -1,
+          "isPurchase": false
+        },
+        {
+          "userId": 2,
+          "isPurchase": true
+        }
+      ],
+      "id": 1
+    },
+    {
+      "title": "1",
+      "description": "1",
+      "price": 1,
+      "capacity": 0,
+      "image": null,
+      "dateTime": "2024-11-11",
+      "user_id": 1,
+      "rowCount": 1,
+      "columnCount": 1,
+      "purchases": [
+        {
+          "userId": 1,
+          "isPurchase": true
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "bookmark": [
+    {
+      "title": "tt",
+      "description": "tt",
+      "price": 12,
+      "capacity": 9,
+      "image": null,
+      "dateTime": "2024-11-27",
+      "user_id": 1,
+      "rowCount": 3,
+      "event_id": 1,
+      "columnCount": 3,
+      "purchases": [
+        {
+          "userId": -1,
+          "isPurchase": false
+        },
+        {
+          "userId": -1,
+          "isPurchase": false
+        },
+        {
+          "userId": -1,
+          "isPurchase": false
+        },
+        {
+          "userId": -1,
+          "isPurchase": false
+        },
+        {
+          "userId": -1,
+          "isPurchase": false
+        },
+        {
+          "userId": -1,
+          "isPurchase": false
+        },
+        {
+          "userId": -1,
+          "isPurchase": false
+        },
+        {
+          "userId": -1,
+          "isPurchase": false
+        },
+        {
+          "userId": -1,
+          "isPurchase": false
+        }
+      ],
+      "id": 1
+    }
+  ]
+}

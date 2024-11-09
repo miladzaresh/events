@@ -1,0 +1,82 @@
+{
+  "shared_text": {
+    "retry": "Retry",
+    "empty_list": "not found",
+    "submit": "Submit",
+    "price": "Price",
+    "title": "Title",
+    "success": "successful",
+    "search": "Search",
+    "cancel": "Cancel",
+    "expired_event": "this event expired",
+    "empty_filed_message": "Field is not empty"
+  },
+  "filter_page": {
+    "title": "Filters",
+    "limited_price": "Limited Price",
+    "not_expired": "Not Expired",
+    "have_capacity": "Have capacity",
+    "sort_by_date": "Sorting by date",
+    "clear_filters": "Clear filters"
+  },
+  "my_event_page": {
+    "error_capacity_message": "People Purchase event"
+  },
+  "event_details_page": {
+    "name": "Event details",
+    "purchases": "Purchase",
+    "choose_chair": "Choose chair",
+    "other_purchase": "Other people purchase this chair"
+  },
+  "add_event_page": {
+    "name": "Add Event",
+    "choose_image": "Choose image",
+    "title": "Title",
+    "description": "Description",
+    "price": "Price",
+    "successfully": "Event added successfully",
+    "choose_column_row": "Choose column and row chair",
+    "choose_date_time": "Choose date",
+    "choose_column_row_error_message": "Please choose column and row chair"
+  },
+  "edit_event_page": {
+    "name": "Edit Event",
+    "choose_image": "Choose image",
+    "title": "Title",
+    "description": "Description",
+    "price": "Price",
+    "successfully": "Event added successfully",
+    "choose_column_row": "Choose column and row chair",
+    "choose_date_time": "Choose date",
+    "choose_column_row_error_message": "Please choose column and row chair"
+  },
+  "error_api": {
+    "error_404": "server error please contact to support",
+    "error_403": "please login again ",
+    "error_500": "server error please contact to support"
+  },
+  "splash_page": {
+    "welcome_text": "Welcome"
+  },
+  "login_page": {
+    "title_text": "Login",
+    "username_text": "Username",
+    "password_text": "Password",
+    "remember_me_text": "Remember me",
+    "success_toast": "Success",
+    "signup_text": "Signup",
+    "user_not_found_toast": "User not found"
+  },
+  "signup_page": {
+    "title_text":"Signup",
+    "first_name_text":"First name",
+    "username_text":"Username",
+    "password_text":"Password",
+    "confirm_password_text":"Confirm password",
+    "choose_gender_text":"Choose gender",
+    "male_text":"Male",
+    "female_text":"Female",
+    "last_name_text":"last name",
+    "confirm_password_error_message": "Password is not match confirm password"
+  }
+}

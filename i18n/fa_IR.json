@@ -1,0 +1,89 @@
+{
+  "shared_text": {
+    "retry": "تلاش محدد",
+    "empty_list": "موردی پیدا نشد",
+    "submit": "ثبت",
+    "price": "قیمت",
+    "title": "عنوان",
+    "cancel": "لغو",
+    "search": "جستجو",
+    "expired_event": "این ایونت منقضی شده",
+    "empty_filed_message": "این فبلد نباید خالی باشد"
+  },
+  "my_event_page": {
+    "error_capacity_message": "این اونت خریداری شده "
+  },
+  "filter_page": {
+    "title": "فیلتر ها",
+    "limited_price": "محدوده قیمت",
+    "not_expired": "منقضی نشده",
+    "have_capacity": "با ظرفیت",
+    "sort_by_date": "مرتب سازی براساس تاریخ",
+    "clear_filters": "حذف فیلتر ها"
+
+  },
+  "event_details_page": {
+    "name": "جزیات رویداد",
+    "purchases": "خریداری رویداد",
+    "choose_chair": "انتخاب صندلی",
+    "other_purchase": "فرد دیگری این صندلی را خریداری کرده "
+
+
+  },
+  "add_event_page": {
+    "name": "افزودن رویداد",
+    "choose_image": "انتخاب عکس",
+    "title": "عنوان",
+    "description": "توضیحات",
+    "price": "قیمت",
+    "success": "موفقیت امیز بود",
+    "successfully": "رویداد با موفقیت ثبت شد",
+    "choose_column_row": "انتخاب ردیف و ستون صندلی ها",
+    "choose_date_time": "انتخاب زمان ",
+    "choose_column_row_error_message": "لطفا ردیف و ستون صندلی ها را انتخاب کنید"
+  },
+  "edit_event_page": {
+    "name": "ویرایش رویداد",
+    "choose_image": "انتخاب عکس",
+    "title": "عنوان",
+    "description": "توضیحات",
+    "price": "قیمت",
+    "success": "موفقیت امیز بود",
+    "successfully": "رویداد با موفقیت ثبت شد",
+    "choose_column_row": "انتخاب ردیف و ستون صندلی ها",
+    "choose_date_time": "انتخاب زمان ",
+    "choose_column_row_error_message": "لطفا ردیف و ستون صندلی ها را انتخاب کنید"
+  },
+  "error_api": {
+    "error_404": "مشکلی پیش امده لطفا با پشتیبانی تماس بگیرید",
+    "error_403": "محددا لاگین کنید",
+    "error_500": "مشکلی پیش امده لطفا با پشتیبانی تماس بگیرید"
+  },
+  "splash_page": {
+    "welcome_text": "خوش آمدید"
+  },
+  "login_page": {
+    "title_text": "ورود",
+    "username_text": "نام کاربری",
+    "password_text": "گذرواژه",
+    "remember_me_text": "مرا بخاطر بسپار",
+    "signup_text": "ثبت نام",
+    "success_toast": "موفقیت آمیز بود",
+    "user_not_found_toast": "کاربر پیدا نشد"
+
+  },
+  "signup_page": {
+    "title_text":"ثبت نام",
+    "first_name_text":"نام",
+    "username_text":"نام کاربری",
+    "password_text":"گذرواژه",
+    "confirm_password_text":"تایید گذرواژه",
+    "choose_gender_text":"انتخاب جنسیت",
+    "male_text":"آقا",
+    "female_text":"خانم",
+    "last_name_text":"نام خانوادگی",
+    "confirm_password_error_message": "گدرواژه وارد شده یکسان نیست"
+
+  }
+
+}
